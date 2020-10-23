@@ -1,0 +1,24 @@
+{
+    "name": "Dafa195410170",
+    "version": "1.0.0",
+    "description": "Tayo^2 Programming",
+    "main": "modernizr-custom.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Dafaakmal12/Dafa195410170.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Dafaakmal12/Dafa195410170/issues"
+    },
+    "homepage": "https://github.com/Dafaakmal12/Dafa195410170#readme",
+    "dependencies": {
+        "node-static": "^0.7.11"
+    },
+    "devDependencies": {}
+}
